@@ -1,0 +1,7 @@
+p --> q tuong duong not p hoac q
+ton tai x, f(x) tuong duong voi moi x, not f(x)
+p va (p suy ra q) suy ra q
+phep suy ra thi chuyen ben trai thanh conjunction form ( hoac trong va ngoai)
+ben phai dysjunction form (va trong hoac ngoai)
+(p suy ra q) va not q suy ra p
+p va q suy ra r tuong duong (p suy ra r) hoac (q suy ra r)

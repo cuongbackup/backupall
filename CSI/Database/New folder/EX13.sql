@@ -1,0 +1,1 @@
+select * from Worker ORDER BY Salary DESC LIMIT 10;

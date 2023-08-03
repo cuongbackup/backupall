@@ -1,0 +1,62 @@
+SRS:
+1.2.2. Descriptions
+UC-06
+ Request to change account information
+Customer
+Let customer make a request to change their account information to the staff
+
+
+2.1.2. Screen Descriptions
+6
+Request to change account information
+Request to change account information
+Allow customers to make request to change account information to staff
+
+UC-06
+
+Use Case ID:
+UC-06
+Use Case Name:
+ Request to change account information
+Created By:
+DungTA
+Date Created:
+2023/05/23
+Primary Actor:
+Customer
+Secondary Actor:
+
+
+Description:
+Customer can request to change their information
+Priority:
+Must have
+Trigger:
+Customer click change information button
+
+Preconditions:
+PRE-1 Customer is signed into system
+
+Post - Conditions:
+POST-1. Staff can view the request that send from the customer
+POST-2. Customer is sent back to home page
+
+
+
+Basic Flow:
+Fill in the required form field to change information.
+Click on the “Send request” button below the field.
+System should show a notification to inform customers to check request status.
+System redirect the customer to the home page
+
+
+Alternative Flow:
+N/A
+Exception Flow:
+Invalid input form
+- The customer does not provide all required fields
+Business rules:
+None
+
+
+

@@ -1,0 +1,1 @@
+select upper(FIRST_NAME) from WORKER;

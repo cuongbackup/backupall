@@ -1,0 +1,1 @@
+Select * from Worker where FIRST_NAME in ('Vipul','Satish');

@@ -1,0 +1,113 @@
+<mxfile host="app.diagrams.net" modified="2023-07-14T13:43:02.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" version="21.6.2" etag="WX6al51ZtTanXQBVUpTc" type="device">
+  <diagram id="2WpRSBdYv13VVchr_Vgz" name="Page-1">
+    <mxGraphModel dx="1114" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8QMd7xfJCL46KdyvjKGw-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="580" as="sourcePoint" />
+            <mxPoint x="544.5" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-2" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8QMd7xfJCL46KdyvjKGw-10" target="8QMd7xfJCL46KdyvjKGw-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265" y="480" as="sourcePoint" />
+            <mxPoint x="265" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-5" value="manager-viewVIPCustomer&lt;br&gt;page" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="600" as="sourcePoint" />
+            <mxPoint x="100" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-9" value="Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="611" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-10" value="manager-viewVIPCustomer&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;page" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="611" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-11" value="VIPCustomer&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Servlet" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-12" value="VIPCustomer&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Servlet" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="616" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8QMd7xfJCL46KdyvjKGw-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="825" y="580" as="sourcePoint" />
+            <mxPoint x="824.5" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-18" value="Customer" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="770" y="80" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-19" value="Customer" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="770" y="616" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="10" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="8QMd7xfJCL46KdyvjKGw-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="200" as="sourcePoint" />
+            <mxPoint x="260" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-45" value="1. Click delete button on &lt;br&gt;a VIP account" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8QMd7xfJCL46KdyvjKGw-44">
+          <mxGeometry x="-0.225" y="-4" relative="1" as="geometry">
+            <mxPoint x="18" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="301" as="sourcePoint" />
+            <mxPoint x="820" y="301.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-47" value="3. Remove VIP status from account" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8QMd7xfJCL46KdyvjKGw-46">
+          <mxGeometry x="-0.225" y="-4" relative="1" as="geometry">
+            <mxPoint x="18" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="301" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="281" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-51" value="2. Send information" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8QMd7xfJCL46KdyvjKGw-43" target="8QMd7xfJCL46KdyvjKGw-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="530" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="501" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="501" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-54" value="4. Show success message" style="endArrow=open;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;dashed=1;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="501" as="sourcePoint" />
+            <mxPoint x="270" y="501" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8QMd7xfJCL46KdyvjKGw-55" value="5. VIP status removed&lt;br&gt;successfully" style="endArrow=open;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="560" as="sourcePoint" />
+            <mxPoint x="100" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

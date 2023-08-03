@@ -1,0 +1,5 @@
+Thêm bảng AutoPay chứa thông tin của bên tiền điện, tiền nước
+Thêm cột chứa description, số dư trước và sau khi giao dịch cho bảng lịch sử giao dịch 
+Chuyển cái bảng của lịch sử giao dịch thành excel (Nếu dc thì cho khách hàng download)
+Sau khi thanh toán hóa đơn, hiện thông báo đã thanh toán hóa đơn
+Thêm tự động thanh toán hóa đơn sau khi nhận bill

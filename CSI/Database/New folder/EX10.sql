@@ -1,0 +1,1 @@
+select * FROM worker WHERE DEPARTMENT = 'Admin';

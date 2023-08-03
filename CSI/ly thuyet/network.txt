@@ -1,0 +1,6 @@
+remote connection services: TELNET(23), SSH(22)
+giao thức gửi mail: SMTP cổng 25
+Nhận mail: POP: cổng 110
+dns: 53
+remote desktop: 3389
+Name bios(tìm tên máy tính trong mạng lan): SMB: 135, 139

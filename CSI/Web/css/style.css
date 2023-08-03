@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  border: 2px solid #00FF00;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  text-align: center;
+  color: #00C000; 
+}
+
+ul {
+  color: #00FF00;
+}

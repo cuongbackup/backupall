@@ -1,0 +1,1 @@
+select WORKER_ID, FIRST_NAME, LAST_NAME, SALARY from Worker WHERE SALARY=(select max(SALARY) from Worker);
